@@ -1,6 +1,6 @@
 FROM dorowu/ubuntu-desktop-lxde-vnc:bionic-lxqt
 
-ARG VERSION=1.14.1
+ARG VERSION=1.14.2
 
 MAINTAINER Truong Nghiem <truong.nghiem@gmail.com>
 
